@@ -1,0 +1,3 @@
+DataType | Dictionary :
+
+Dictioanries store data in a Key-Value pair format where a Key should always be unique and could only be linked with a single Value.
